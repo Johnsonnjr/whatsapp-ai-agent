@@ -49,5 +49,4 @@ def resolve_relationship(
         return ("group", None)
 
     collection_name = f"history_{relationship}"
-
-    return (relationship, collection_name)
+    return relationship, collection_name
