@@ -1,5 +1,12 @@
 .env
 .venv/
+venv/
+env/
+ENV/
 __pycache__/
 *.pyc
 data/chroma_db/
+data/raw_export/
+data/processed_pairs.jsonl
+config/contact_relationship_map.json
+config/relationship_map.json
